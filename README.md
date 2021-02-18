@@ -1,15 +1,15 @@
-# eslint-config-pancake
+eslint-config-pie :
 
-Pancake Eslint config with:
+Pie Eslint config with:
 
 - Airbnb config
 - Typescript
 - Prettier
 
-## Usage
+Usage:
 
 ```
-npx install-peerdeps --dev @pancakeswap-libs/eslint-config-pancake
+npx install-peerdeps --dev @pieswap-libs/eslint-config-pie
 ```
 
-Add `"extends": "@pancakeswap-libs/eslint-config-pancake"` to your eslint config file.
+Add `"extends": "@pieswap-libs/eslint-config-pie"` to your eslint config file.
